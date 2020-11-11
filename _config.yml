@@ -14,7 +14,7 @@ title: Will's Workshop
 # some options: fas fa-wrench; fas fa-cogs; fas fa-code; fas fa-chalkboard-teacher; fas fa-book-open
 title-icon: fas fa-code
 # description, keywords, and image for meta tags
-description: "Create a workshop website quick and easy!"
+description: "Create a workshop website quick!"
 keywords: "workshops, websites, gh-pages, jekyll"
 featured-image: "/images/uidaho-workshop.jpg"
 
