@@ -2,7 +2,9 @@
 title: Complexity Bias
 nav: Bias
 ---
-# Complexity Bias 
+
+02-11-2019 - 7:37 AM
+›[[201902110737]]
 
 A logical fallacy that leads to giving credence to complex concepts over simpler ones. The opposite of Occam's Razor. It is a cognitive shortcut. If a solution is complex then we can sidestep the work needed to understand.
 
@@ -25,17 +27,8 @@ Antidotes
 
 ----
 
-02-11-2019 - 7:37 AM
-›[[201902110737]]
-→ #mental-models, #definition, #thinking-skills
-
-evernote:///view/597091/s5/91b2b9ba-7b4d-4002-9b45-2f545246dd12/91b2b9ba-7b4d-4002-9b45-2f545246dd12/
-
-Occam's Razor ..................................................[[201812311745]]
-Measure of disorder ............................................[[201902011156]]
-Inversion ......................................................[[201901250922]]
-Entropy ........................................................[[201901250920]]
-Decentralization ...............................................[[201902121004]]
-Unloose the mind ...............................................[[201906070726]]
-Hallmarks of genius ............................................[[201912251036]]
-Complexity is not simple .......................................[[202009211159]]
+Occam's Razor [[201812311745]]
+Measure of disorder [[201902011156]]
+Inversion [[201901250922]]
+Entropy [[201901250920]]
+Decentralization[[201902121004]]
