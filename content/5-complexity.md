@@ -1,3 +1,7 @@
+---
+title: Complexity Bias
+nav: Bias
+---
 # Complexity Bias 
 
 A logical fallacy that leads to giving credence to complex concepts over simpler ones. The opposite of Occam's Razor. It is a cognitive shortcut. If a solution is complex then we can sidestep the work needed to understand.
@@ -11,12 +15,12 @@ Complexity is less common, chaos tends to disguise itself as complexity. "We don
 
 > ... we may also see complexity where only chaos exists. This tendency manifests in many forms, such as conspiracy theories, superstition, folklore, and logical fallacies. The distinction between complexity and chaos is not a semantic one. When we imagine that something chaotic is in fact complex, we are seeing it as having an order and more predictability than is warranted. In fact, there is no real order, and prediction is incredibly difficult at best.
 
-- Problem Solving Skills For The Future [[202009021739]] 
-- Katrina Death Reporting [[202009210907]] 
+- Problem Solving Skills For The Future [[202009021739]]
+- Katrina Death Reporting [[202009210907]]
 
 Antidotes
 1. “Most geniuses — especially those who lead others — prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities.” — Andy Benoit
-2. Be flexible. Not ridged. 
+2. Be flexible. Not ridged.
 3. Avoid adding unnecessary complexity. **Occam's Razor**
 
 ----
