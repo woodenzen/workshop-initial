@@ -3,8 +3,10 @@ title: Complexity Bias
 nav: Bias
 ---
 
-02-11-2019 - 7:37 AM
+02-11-2019 - 7:37 AM  
 ›[[201902110737]]
+
+{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
 A logical fallacy that leads to giving credence to complex concepts over simpler ones. The opposite of Occam's Razor. It is a cognitive shortcut. If a solution is complex then we can sidestep the work needed to understand.
 
