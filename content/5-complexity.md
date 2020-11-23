@@ -27,8 +27,8 @@ Antidotes
 
 ----
 
-Occam's Razor [[201812311745]]
-Measure of disorder [[201902011156]]
-Inversion [[201901250922]]
-Entropy [[201901250920]]
-Decentralization[[201902121004]]
+Occam's Razor [[201812311745]]  
+Measure of disorder [[201902011156]]  
+Inversion [[201901250922]]  
+Entropy [[201901250920]]  
+Decentralization[[201902121004]]  
