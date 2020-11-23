@@ -17,7 +17,7 @@ This erupts when we are in a state of confusion. Confusion leads us to think thi
 The world around us is a chaotic, entropic place. It is rare for us to see this.
 Complexity is less common, chaos tends to disguise itself as complexity. "We don't want to acknowledge that the the world is entropic. Disasters happen and chaos is our natural state."
 
-> ... we may also see complexity where only chaos exists. This tendency manifests in many forms, such as conspiracy theories, superstition, folklore, and logical fallacies. The distinction between complexity and chaos is not a semantic one. When we imagine that something chaotic is in fact complex, we are seeing it as having an order and more predictability than is warranted. In fact, there is no real order, and prediction is incredibly difficult at best.
+> we may also see complexity where only chaos exists. This tendency manifests in many forms, such as conspiracy theories, superstition, folklore, and logical fallacies. The distinction between complexity and chaos is not a semantic one. When we imagine that something chaotic is in fact complex, we are seeing it as having an order and more predictability than is warranted. In fact, there is no real order, and prediction is incredibly difficult at best.
 
 - Problem Solving Skills For The Future [[202009021739]]
 - Katrina Death Reporting [[202009210907]]
