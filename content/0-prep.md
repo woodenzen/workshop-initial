@@ -23,7 +23,7 @@ However, for more advanced uses you will want Git, Ruby, and Jekyll installed on
 
 ## Install Git
 
-[Git](https://git-scm.com/) is a [free](https://www.gnu.org/philosophy/free-sw.en.html), [distributed](https://en.wikipedia.org/wiki/Distributed_version_control) version control system. [GitHub](https://github.com/) is a Git repository hosting service, a place to store and sync your work in the cloud--your Jekyll and GitHub Pages projects will be under Git version control, so you need the software on your machine. 
+[Git](https://git-scm.com/) is a [free](https://www.gnu.org/philosophy/free-sw.en.html), [distributed](https://en.wikipedia.org/wiki/Distributed_version_control) version control system. [GitHub](https://github.com/) is a Git repository hosting service, a place to store and sync your work in the cloud--your Jekyll and GitHub Pages projects will be under Git version control, so you need the software on your machine.
 
 - Windows: install [Git for Windows](https://git-for-windows.github.io/) using the default options. This will give you Git, Git Bash, and Git GUI. Git Bash is a great terminal that lets you use UNIX style commands on Windows.
 - Mac: check if Git is already installed by opening terminal and typing `git --version`. If you do not have it, download the official [Mac installer](https://git-scm.com/downloads).
@@ -36,14 +36,14 @@ There are other [GUI apps available](https://git-scm.com/downloads/guis) for man
 
 ## Install Ruby
 
-[Ruby](https://www.ruby-lang.org/en/) is a fairly young and developing programming language with some unique features. 
+[Ruby](https://www.ruby-lang.org/en/) is a fairly young and developing programming language with some unique features.
 To use Jekyll, you do not need to know anything about Ruby, but if you are curious, check out [Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/).
 Frustratingly, different versions have many dependency and incompatibility problems.
 Because of these issues, many use Ruby Managers, such as [RVM](http://rvm.io/), to switch between versions.
 However, if you are just interested in working with Jekyll, using an installer for your OS should be sufficient.
 Jekyll requires a Ruby version > 2.2.5.
 
-- **Windows:** Use [RubyInstaller for Windows](https://rubyinstaller.org/). 
+- **Windows:** Use [RubyInstaller for Windows](https://rubyinstaller.org/).
     - First, [download](https://rubyinstaller.org/downloads/) the suggested stable version "WITH DEVKIT" (as of this writing, Ruby+Devkit 2.7.X (x64)) and double click to install. Use the install defaults, but make sure "Add Ruby executables to your PATH" is checked. On the final step, ensure the box to start the MSYS2 DevKit is checked.
     - Second, the installer will open a terminal window with options to install MSYS2 DevKit components. Choose option 3, "MSYS2 and MINGW development toolchain", or simply press ENTER to install all the necessary dependencies. (This installer can be restarted by typing `ridk install` into a command prompt)
 - **Mac:** OS X has a version of Ruby installed by default. Check the version with `ruby -v`. If it is > 2.2.5 you can use the system Ruby. However, a newer version can be installed using [Homebrew](https://brew.sh/), `brew install ruby`, or a manager such as [rbenv](https://github.com/rbenv/rbenv) or [RVM](http://rvm.io/). Check the official Jekyll [Mac install docs](https://jekyllrb.com/docs/installation/#macOS) for tips.
@@ -51,16 +51,16 @@ Jekyll requires a Ruby version > 2.2.5.
 
 ## Install Jekyll
 
-Jekyll is a Gem, a software package installed via Ruby's management system called RubyGems (similar to Python's Pip). 
+Jekyll is a Gem, a software package installed via Ruby's management system called RubyGems (similar to Python's Pip).
 Open a terminal and type:
 `gem install jekyll bundler`
 
-This will take a minute as Gem installs all the dependencies and builds extensions. 
+This will take a minute as Gem installs all the dependencies and builds extensions.
 
 # Text Editor
 
 When working with code you should have a good text editor.
-Windows notepad does not handle UTF-8 encoding or UNIX line endings that are standard for cross platform applications. 
+Windows notepad does not handle UTF-8 encoding or UNIX line endings that are standard for cross platform applications.
 For basic editing, Windows [Notepad++](https://notepad-plus-plus.org/), Mac TextEdit, or Linux Gedit are sufficient.
 However, a more complete code editor will be helpful for managing Jekyll projects.
 
