@@ -28,7 +28,7 @@ Antidotes
 3. Avoid adding unnecessary complexity. **Occam's Razor**
 
 ----
-
+[A link to resources](content/4-resources.md)
 Occam's Razor [[201812311745]]  
 Measure of disorder [[201902011156]]  
 Inversion [[201901250922]]  
